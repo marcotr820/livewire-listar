@@ -413,6 +413,7 @@
 
 <body class="antialiased">
     <div class="container relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
+        <p>VINCULADO CON GITHUB</p>
         <div class="mb-2">
             <a href="{{ route('trabajadores.create') }}" class="btn btn-success">Crear trabajador</a>
             <a href="{{ route('usuarios.index') }}" class="btn btn-primary">Ver usuarios livewire</a>
